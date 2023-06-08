@@ -19,4 +19,4 @@
 
 ## *Bonus: Search the keyboard shortcut to open the terminal. Try it out!*
 
-	<sub>Prayer doesn't change things. God changes things in answer to prayer. :seedling:</sub>
+> Prayer doesn't change things. God changes things in answer to prayer. :seedling:
